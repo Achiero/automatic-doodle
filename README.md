@@ -1,10 +1,8 @@
 # Study notes
-## Potato
-### Squirrel
-#### H4
-##### H5
 
 This is an intro to [README](https://www.markdownguide.org/basic-syntax/) markdown.
+
+## Second Subtitle
 
 You can make list items like this:
 
